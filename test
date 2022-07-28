@@ -1,0 +1,22 @@
+
+<div class="row mt-5">
+    <div class="col-sm-4"><div class="card" style="width: 18rem;">
+      <img src="./resim/yamahabateri.jpg" class="card-img-top" alt="...">
+     <div class="card-body">
+    <p class="card-text">Yamaha Masterbuilt 59 Stratocaster </p>
+    <span class="fiyat rounded-pill">500 ₺</span>
+          </div>
+<div class="col-sm-4"><div class="card" style="width: 18rem;">
+  <img src="/resim/fender.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <p class="card-text">Gibson 1959 Les Paul Premium Edition.</p>
+    <span class="fiyat rounded-pill">600₺</span>
+  </div>
+<div class="col-sm-4"><div class="card" style="width: 18rem;">
+  <img src="/resim/yamaha1.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <p class="card-text">Dw Drum Professional Workshop Satin 5</p>
+    <span class="fiyat rounded-pill">1200 ₺</span>
+
+
+    
